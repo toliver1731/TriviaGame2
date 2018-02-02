@@ -2,6 +2,9 @@ body {
 
 	background-image: url("../images/bbBackground.jpg");
 	color: rgb(80,23,23);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 .bbtrivia{
